@@ -1,6 +1,6 @@
 # SchooLama 🎓
 
-*I often find it unamusing when using Canvas. The website looks out of date, its slow and it doesn't scream 21st century school education website. Thus, I decided to create an alternative website, one that functions the same way but with an even better more vibrant user interface. I call it SchooLama.
+*I often find it unamusing when using Canvas. The website looks out of date, its slow and it doesn't scream 21st century school education website. Thus, I decided to create an alternative website, one that functions the same way but with an even better more vibrant user interface. I call it SchooLama.*
 
 A modern, user-friendly alternative to Canvas for school management systems. SchooLama provides a clean, intuitive interface for managing educational institutions with comprehensive features for students, teachers, administrators, and parents.
 
