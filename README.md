@@ -2,7 +2,7 @@
 
 A modern, user-friendly alternative to Canvas for school management systems. SchooLama provides a clean, intuitive interface for managing educational institutions with comprehensive features for students, teachers, administrators, and parents.
 
-![SchooLama Dashboard](./screenshots/dashboard.png)
+![Screenshot 2024-11-10 132835](https://github.com/user-attachments/assets/d120e281-d548-45c2-b32b-015e1f0729a2)
 
 ## 🌟 Key Features
 
@@ -64,25 +64,33 @@ A modern, user-friendly alternative to Canvas for school management systems. Sch
 ## 📸 Screenshots
 
 ### Results Dashboard
-![Results Management](./screenshots/results.png)
+
+![Screenshot 2024-11-10 133012](https://github.com/user-attachments/assets/7dc4b95c-4bd4-49e7-9624-624dac53b345)
+
 - Comprehensive view of student performance
 - Sortable columns for better data organization
 - Search functionality for quick access
 
 ### Class Management
-![Class Management](./screenshots/classes.png)
+
+![Screenshot 2024-11-10 132940](https://github.com/user-attachments/assets/fd1d4dc7-70d5-483d-9924-4758b0b7877c)
+
 - Class capacity tracking
 - Grade level organization
 - Supervisor assignment
 
 ### Teacher Dashboard
-![Teacher Management](./screenshots/teachers.png)
+
+![Screenshot 2024-11-10 132924](https://github.com/user-attachments/assets/27f41c65-03ae-45d4-977c-83c996ecf77d)
+
 - Detailed teacher profiles
 - Subject assignment
 - Contact information management
 
 ### Assignment Tracking
-![Assignment Management](./screenshots/assignments.png)
+
+![Screenshot 2024-11-10 132958](https://github.com/user-attachments/assets/6ecc1d38-0325-42b8-9b77-0f3f3bd4d41a)
+
 - Due date management
 - Subject-wise organization
 - Teacher assignment
