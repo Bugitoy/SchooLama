@@ -40,7 +40,7 @@ A modern, user-friendly alternative to Canvas for school management systems. Sch
 
 1. **Clone the Repository**
    ```bash
-   git clone --single-branch -b completed [your-repository-link]
+   git clone --single-branch -b main [your-repository-link]
    ```
 
 2. **Install Dependencies**
@@ -58,11 +58,8 @@ A modern, user-friendly alternative to Canvas for school management systems. Sch
    - For admin features, append `/admin` to the base URL
 
 ## 💻 Technology Stack
-- Frontend: React.js with modern UI components
-- Styling: CSS with modern design principles
-- State Management: [Add your state management solution]
-- Backend: [Add your backend technology]
-- Database: [Add your database technology]
+- Frontend: Next.js, Tailwind css, Typescript.
+- Backend: PostgreSQL, Docker, Prisma and Clerk Auth.
 
 ## 📸 Screenshots
 
@@ -96,15 +93,5 @@ This project was developed during a hackathon. While core features are functiona
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📝 License
-
-[Add your license information here]
-
-## 📞 Contact
-
-[Add your contact information here]
-
----
 
 ⭐ If you find this project useful, please consider giving it a star!
