@@ -1,8 +1,8 @@
 # A Modernised Canvas alternative🎓
 
-*I often find it unamusing when using Canvas. The website looks out of date, its slow and it doesn't scream 21st century school education website. Thus, I decided to create an alternative website, one that functions the same way but with an even better more vibrant user interface. I call it CourseFlow.*
+*I often find it unamusing when using Canvas. The website looks out of date, its slow and it doesn't scream 21st century school education website. Thus, I decided to create an alternative website, one that functions the same way but with an even better more vibrant user interface. I call it SchooLama.*
 
-A modern, user-friendly alternative to Canvas for school management systems. CourseFlow provides a clean, intuitive interface for managing educational institutions with comprehensive features for students, teachers, administrators, and parents.
+A modern, user-friendly alternative to Canvas for school management systems. SchooLama provides a clean, intuitive interface for managing educational institutions with comprehensive features for students, teachers, administrators, and parents.
 
 ![Screenshot 2024-11-10 132835](https://github.com/user-attachments/assets/d120e281-d548-45c2-b32b-015e1f0729a2)
 
